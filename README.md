@@ -17,7 +17,7 @@
 </p>
   
 <p align="center">
-  <img src="https://github.com/MavYT29/Crafter-Launcher/assets/84601328/7e7c51a6-357d-49f4-b027-e9b1f04d37f6" width="50%" />
+  <img src="https://github.com/MavYT29/Crafter-Launcher/assets/84601328/7e7c51a6-357d-49f4-b027-e9b1f04d37f6" width="49%" />
   <img src="https://github.com/MavYT29/Crafter-Launcher/assets/84601328/4f60e3ee-2fa3-4c8d-946c-624927f71db1" width="49%" /> 
 
 </p>
