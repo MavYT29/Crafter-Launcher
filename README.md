@@ -30,7 +30,7 @@
 - just check first how much ram you have available if it's only 400mb it will automatically be disabled because the normal ram is 800mb it should be up
 
 ## Useful Links:
-- Discord: [KrazzPH Community Discord Server](https://discord.gg/E5sHNCQGPe)
+- Discord: [KrazzyPH Community Discord Server](https://discord.gg/E5sHNCQGPe)
 
 ## Don't Forget ⚠︎
 - I can't publish the source code of my Crafter Launcher yet, but I will release it soon
