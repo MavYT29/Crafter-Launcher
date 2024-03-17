@@ -8,8 +8,8 @@
   <a href="https://discord.gg/E5sHNCQGPe">
     <img src="https://img.shields.io/discord/1173195579736723496?color=brightgreen&logo=discord">
   </a>
-  <a href="https://github.com/ChristianKern97/Fork/releases">
-    <img src="https://img.shields.io/github/v/release/ChristianKern97/Fork?color=brightgreen&include_prereleases">
+  <a href="https://github.com/MavYT29/Crafter-Launcher/releases">
+    <img src="https://img.shields.io/github/v/release/MavYT29/Crafter-Launcher?color=brightgreen&include_prereleases">
   </a>
   <a href="https://github.com/ChristianKern97/Fork/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/ChristianKern97/Fork?color=brightgreen">
