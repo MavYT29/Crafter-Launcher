@@ -36,5 +36,6 @@
 ## Useful Links:
 - Discord: [KrazzPH Community Discord Server](https://discord.gg/E5sHNCQGPe)
 
-  ⚠︎ - it turns out that this software is not a cup, can I release the visual studio code because I can't make it public yet, but I will rerelease it soon
+## Don't Forget ⚠︎
+- it turns out that this software is not a cup, can I release the visual studio code because I can't make it public yet, but I will rerelease it soon
 
