@@ -10,7 +10,6 @@
   </a>
   <a href="https://github.com/MavYT29/Crafter-Launcher/releases">
     <img src="https://img.shields.io/github/v/release/MavYT29/Crafter-Launcher?color=brightgreen&include_prereleases">
-  </a>
 </p>
   
 <p align="center">
