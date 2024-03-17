@@ -25,6 +25,8 @@
 
 ## How to use
 - before you press the start button on the Crafter Launcher you must first press JAVA / SERVER to correctly locate the Java Path and the Server Path then after that start your server
+- and when an error like "Error: Available RAM is critically low!" just click the Reset Button
+- just check first how much ram you have available if it's only 400mb it will automatically be disabled because the normal ram is 800mb it should be up
 
 ## Installation
 - Download the [Launcher](https://api.fork.gg/download/launcher) 
