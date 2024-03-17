@@ -23,7 +23,8 @@
 </p>
   
 
-
+## How to use
+- before you press the start button on the Crafter Launcher you must first press JAVA / SERVER to correctly locate the Java Path and the Server Path then after that start your server
 
 ## Installation
 - Download the [Launcher](https://api.fork.gg/download/launcher) 
