@@ -11,9 +11,6 @@
   <a href="https://github.com/MavYT29/Crafter-Launcher/releases">
     <img src="https://img.shields.io/github/v/release/MavYT29/Crafter-Launcher?color=brightgreen&include_prereleases">
   </a>
-  <a href="https://github.com/ChristianKern97/Fork/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/ChristianKern97/Fork?color=brightgreen">
-  </a>
 </p>
   
 <p align="center">
