@@ -21,7 +21,7 @@
 
 
 ## Installation
-- Download the [Launcher](https://github.com/MavYT29/Crafter-Launcher/releases/download/v1.0/CRAFTER.LAUNCHER.zip)
+- Download the [Launcher](https://github.com/MavYT29/Crafter-Launcher/releases/download/v2.0/CRAFTER.LAUNCHER.v2.zip)
 - Download the Debug Version - Disable Error: Available RAM is critically low! [Launcher Debug](https://github.com/MavYT29/Crafter-Launcher/releases/download/Debug/Crafter.Launcher.v1.0.Debug.zip)
 - Run the Launcher and enjoy
 
